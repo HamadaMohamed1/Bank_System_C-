@@ -1,0 +1,21 @@
+﻿  OOP level2.cpp
+E:\visual studio work space\OOP level2\OOP level2\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+E:\visual studio work space\OOP level2\OOP level2\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+E:\visual studio work space\OOP level2\OOP level2\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+E:\visual studio work space\OOP level2\OOP level2\clsString.h(197,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+E:\visual studio work space\OOP level2\OOP level2\clsString.h(328,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+E:\visual studio work space\OOP level2\OOP level2\clsString.h(376,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+E:\visual studio work space\OOP level2\OOP level2\clsUser.h(132,12): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+E:\visual studio work space\OOP level2\OOP level2\clsBankClient.h(160,9): warning C4240: nonstandard extension used: access to 'clsBankClient::stTrnsferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+E:\visual studio work space\OOP level2\OOP level2\clsBankClient.h(21,96): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\visual studio work space\OOP level2\OOP level2\clsBankClient.h(131,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\visual studio work space\OOP level2\OOP level2\clsBankClient.h(132,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\visual studio work space\OOP level2\OOP level2\clsBankClient.h(133,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\visual studio work space\OOP level2\OOP level2\clsBankClient.h(354,23): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\visual studio work space\OOP level2\OOP level2\clsBankClient.h(361,24): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+E:\visual studio work space\OOP level2\OOP level2\clsTotalBalancesScreen.h(38,88): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\visual studio work space\OOP level2\OOP level2\clsTransferScreen.h(53,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\visual studio work space\OOP level2\OOP level2\clsTransferLogListScreen.h(28,21): warning C4129: 'T': unrecognized character escape sequence
+E:\visual studio work space\OOP level2\OOP level2\clsBankClient.h(310,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+E:\visual studio work space\OOP level2\OOP level2\clsUser.h(280,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  OOP level2.vcxproj -> E:\visual studio work space\OOP level2\x64\Debug\OOP level2.exe
