@@ -16,6 +16,7 @@ E:\visual studio work space\OOP level2\OOP level2\clsBankClient.h(361,24): warni
 E:\visual studio work space\OOP level2\OOP level2\clsTotalBalancesScreen.h(38,88): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
 E:\visual studio work space\OOP level2\OOP level2\clsTransferScreen.h(53,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
 E:\visual studio work space\OOP level2\OOP level2\clsTransferLogListScreen.h(28,21): warning C4129: 'T': unrecognized character escape sequence
+E:\visual studio work space\OOP level2\OOP level2\clsCurrency.h(26,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
 E:\visual studio work space\OOP level2\OOP level2\clsBankClient.h(310,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
 E:\visual studio work space\OOP level2\OOP level2\clsUser.h(280,1): warning C4715: 'clsUser::Save': not all control paths return a value
   OOP level2.vcxproj -> E:\visual studio work space\OOP level2\x64\Debug\OOP level2.exe
