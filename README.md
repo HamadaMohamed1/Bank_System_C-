@@ -46,6 +46,9 @@ Manage and use currency exchange features:
 3. **Update Rate**: Modify exchange rates.
 4. **Currency Calculator**: Calculate currency conversions.
 
+### Encrypting Users' Passwords
+Enhance security by encrypting users' passwords using strong encryption algorithms. This ensures that passwords are stored securely and are protected against unauthorized access.
+
 ## User Permissions
 Users have varying levels of access permissions. Some users may have full access to all menu options, while others may have restricted access based on their roles.
 
